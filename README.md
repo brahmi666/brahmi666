@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm Feres Brahmi</h1>
-<h3 align="center">A passionate frontend developer from Tunisia</h3>
-
-- 🔭 I’m currently working on **My graduation Project**
-
-- 🌱 I’m currently learning **MEAN framework**
+<h1 align="center">Feres Brahmi</h1>
+<h3 align="center">fullstack developer from Tunisia</h3>
 
 - 📫 How to reach me **feresbrahmi@gmail.com**
 
